@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com",
     "dependencies": {
-        "@slack/bolt": "^3.11.0",
+        "@slack/bolt": "^3.17.1",
         "crypto-js": "^4.1.1",
         "dotenv": "^16.0.1",
         "express": "^4.17.2",
